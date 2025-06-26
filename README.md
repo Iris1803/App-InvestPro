@@ -35,6 +35,10 @@ Considerando um salário de R$ 2.500,00 e um investimento mensal de R$ 750,00 po
 
 > Esta planilha tem caráter educativo e visa auxiliar no planejamento financeiro pessoal. As taxas de rendimento devem ser ajustadas conforme o perfil do investidor e o cenário econômico vigente.
 
+## Referência Acadêmica
+
+Esta planilha foi desenvolvida com base em uma atividade proposta durante aula, como parte do conteúdo didático sobre planejamento financeiro e simulações de investimento pessoal. O modelo foi adaptado e personalizado para fins de prática e aprofundamento dos conceitos abordados.
+
 ## Arquivo Disponível
 
 - `APP - InvestPro.xlsx`
